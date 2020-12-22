@@ -1,0 +1,2 @@
+rootProject.name='BasicSqlApp'
+include ':app'
